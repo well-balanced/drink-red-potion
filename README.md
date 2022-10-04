@@ -1,1 +1,3 @@
-# drink-red-potion
+## drink-red-potion
+
+practice for the Elixir
